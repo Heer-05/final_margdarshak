@@ -9,8 +9,6 @@ numpy
 requests
 python-dotenv
 pydantic
-torch
-gdown
 
 
 
