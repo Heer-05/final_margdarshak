@@ -9,7 +9,6 @@ numpy
 requests
 python-dotenv
 pydantic
-transformers
 torch
 gdown
 
